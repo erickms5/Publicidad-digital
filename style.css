@@ -1,0 +1,22 @@
+body{
+   border-color: blue;
+   border-style: groove;
+   border-spacing: 10cqmax;
+   border-radius: 3%;
+   background-color: rgba(220, 244, 255, 0.735);
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+img{
+    width: 600px;
+    height: 300px;
+    
+}    
+div{
+    text-align: center;
+}
+h6{
+    text-align: right;
+}
